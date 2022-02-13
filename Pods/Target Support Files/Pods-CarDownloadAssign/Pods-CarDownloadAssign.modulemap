@@ -1,0 +1,6 @@
+framework module Pods_CarDownloadAssign {
+  umbrella header "Pods-CarDownloadAssign-umbrella.h"
+
+  export *
+  module * { export * }
+}
